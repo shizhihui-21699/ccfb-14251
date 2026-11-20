@@ -1,0 +1,17 @@
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/obj/Debug/net11.0/SodAudit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/obj/Debug/net11.0/SodAudit.AssemblyInfoInputs.cache
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/obj/Debug/net11.0/SodAudit.AssemblyInfo.cs
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/obj/Debug/net11.0/SodAudit.csproj.CoreCompileInputs.cache
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/obj/Debug/net11.0/SodAudit.sourcelink.json
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/bin/Debug/net11.0/SodAudit
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/bin/Debug/net11.0/SodAudit.deps.json
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/bin/Debug/net11.0/SodAudit.runtimeconfig.json
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/bin/Debug/net11.0/SodAudit.runtimeconfig.dev.json
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/bin/Debug/net11.0/SodAudit.dll
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/bin/Debug/net11.0/SodAudit.pdb
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/obj/Debug/net11.0/SodAudit.dll
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/obj/Debug/net11.0/refint/SodAudit.dll
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/obj/Debug/net11.0/SodAudit.pdb
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/obj/Debug/net11.0/SodAudit.genruntimeconfig.cache
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/obj/Debug/net11.0/ref/SodAudit.dll
+/Users/shizhihui/ccfb/runs/14251/workspace/SodAudit/obj/Debug/net11.0/SodAudit.csproj.Up2Date
